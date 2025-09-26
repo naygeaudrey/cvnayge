@@ -99,3 +99,10 @@ article {
   width: 200px;
   border-radius: 10px;
 }
+
+footer {
+  background: #d4b8be;
+  padding: 1rem;
+  text-align: center;
+  color: #fff;
+}
