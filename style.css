@@ -87,3 +87,15 @@ article {
   line-height: 1.6;
   text-align: center;
 }
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.gallery img {
+  width: 200px;
+  border-radius: 10px;
+}
