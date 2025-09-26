@@ -80,3 +80,10 @@ section h2 {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
+
+article {
+  max-width: 800px;
+  margin: auto;
+  line-height: 1.6;
+  text-align: center;
+}
