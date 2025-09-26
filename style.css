@@ -17,3 +17,26 @@ header h1 {
   font-size: 2rem;
   letter-spacing: 3px;
 }
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: #444;
+  font-size: .9rem;
+  text-transform: lowercase;
+  background: #e7d1d6;
+  padding: .3rem .7rem;
+  border-radius: 4px;
+  transition: 0.3s;
+}
+
+nav a:hover {
+  background: #d4b8be;
+}
